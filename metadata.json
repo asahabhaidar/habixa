@@ -1,0 +1,6 @@
+{
+  "name": "Habixa",
+  "description": "A simple, clean, and modern daily habit tracker designed to help you build great routines and stay consistent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

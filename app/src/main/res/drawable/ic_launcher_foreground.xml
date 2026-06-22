@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Beautiful shadow/glow -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M54,23 C36.3,23 22,37.3 22,55 C22,72.7 36.3,87 54,87 C71.7,87 86,72.7 86,55 C86,37.3 71.7,23 54,23 Z" />
+    <!-- Main white checkmark background ring / shield -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,25 C38,25 25,38 25,54 C25,70 38,83 54,83 C70,83 83,70 83,54 C83,38 70,25 54,25 Z M54,77 C41.3,77 31,66.7 31,54 C31,41.3 41.3,31 54,31 C66.7,31 77,41.3 77,54 C77,66.7 66.7,77 54,77 Z" />
+    <!-- Dynamic star/tick in center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,61 L39.5,52.5 L35.5,56.5 L48,69 L72.5,44.5 L68.5,40.5 Z" />
+</vector>
